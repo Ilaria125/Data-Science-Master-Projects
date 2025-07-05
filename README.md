@@ -49,7 +49,7 @@ This repository contains the following structured folders and projects:
 
 ## 📫 Contact
 
-Feel free to reach out at [ilaria2.curzi@gmail.com](mailto:ilaria2.curzi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tuo-linkedin).
+Feel free to reach out at [ilaria2.curzi@gmail.com](mailto:ilaria2.curzi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ilaria-curzi-10b44a186).
 
 ---
 
