@@ -7,17 +7,18 @@ This repository collects the **projects developed during my Master’s in Data S
 The goal of this repository is to **document and share projects completed during the master's program**, demonstrating applied skills and learning progress in:
 
 - **Machine Learning**
-- **Agile Data Science**
-- **Linear Algebra**
-- **Optimization**
-- **Business Analytics**
-- **Bayesian Statistics**
 - **Natural Language Processing (NLP)**
 - **Complex Network Analysis**
 - **Deep Learning**
 - **Recommender Systems**
 - **Data Visualization**
 - **Ethics in Data Science**
+- **Agile Data Science**
+- **Linear Algebra**
+- **Optimization**
+- **Business Analytics**
+- **Bayesian Statistics**
+
 
 These projects reflect both the theoretical and practical components of the program, with a focus on solving real-world problems using data-driven approaches.
 
