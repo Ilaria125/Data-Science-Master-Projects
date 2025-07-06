@@ -22,12 +22,12 @@ This folder contains **NLP projects developed during the MSc in Data Science at 
 ## Repository Structure
 
 ### Quora Question Pairs
-- `train_models.ipynb`: Notebook for preprocessing, feature engineering, model training, and evaluation on the Quora dataset.
-- `reproduce_results.ipynb`: Notebook to reproduce results and generate final evaluation metrics.
+- `train_models_quora.ipynb`: Notebook for preprocessing, feature engineering, model training, and evaluation on the Quora dataset.
+- `reproduce_results_quora.ipynb`: Notebook to reproduce results and generate final evaluation metrics.
 
 ### Named Entity Recognition
-- `train_models.ipynb`: Notebook for feature engineering and model training (structured perceptron and BERT) on NER tasks.
-- `reproduce_results.ipynb`: Notebook to reproduce results and generate evaluation metrics for the NER models.
+- `train_models_ner.ipynb`: Notebook for feature engineering and model training (structured perceptron and BERT) on NER tasks.
+- `reproduce_results_ner.ipynb`: Notebook to reproduce results and generate evaluation metrics for the NER models.
 
 ## Technologies Used
 
